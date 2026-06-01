@@ -118,12 +118,7 @@ Now   ──  BSc in Data Science @ UIU  ·  scaling Menev  ·  shipping daily
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=tasin1561&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=e85d2a&icon_color=e85d2a&text_color=c9d1d9" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasin1561&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=e85d2a&text_color=c9d1d9" alt="Top languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=tasin1561&hide_border=true&background=0d1117&ring=e85d2a&fire=e85d2a&currStreakLabel=e85d2a&stroke=21262d&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dayLabels=c9d1d9" alt="Streak" />
+<img src="https://streak-stats.demolab.com?user=tasin1561&hide_border=true&background=0d1117&ring=e85d2a&fire=e85d2a&currStreakLabel=e85d2a&stroke=21262d&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dayLabels=c9d1d9" alt="Contribution streak" />
 
 </div>
 

@@ -90,11 +90,13 @@ Beyond modeling, I work hands-on with **SQL (MySQL/MariaDB)** and **ETL / data p
 | :-- | :-- |
 | **Languages** | Python · JavaScript · TypeScript · PHP · SQL |
 | **Backend & full-stack** | Node.js · React · Next.js · REST APIs · Tailwind CSS |
+| **Design & UX** | UI/UX design · responsive, mobile-first interfaces |
 | **CMS & e-commerce** | WordPress / WooCommerce · custom PHP storefronts |
 | **Databases & data engineering** | MySQL / MariaDB · ETL & data pipelines · data modeling |
 | **Data & analytics** | Data analysis · Business Intelligence · Pandas |
 | **Marketing & analytics** | Meta Pixel & Conversions API (CAPI) · GA4 · Google Tag Manager |
 | **Infra & DevOps** | Linux / VPS · Git · Cloudflare · Nginx · deployment |
+| **Quality & security** | QA & testing · web-app security & hardening (Cloudflare WAF) |
 | **Workflow** | AI-augmented development (Claude) for rapid, reliable delivery |
 
 ---

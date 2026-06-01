@@ -29,9 +29,16 @@
 
 I'm a full-stack engineer and business builder based in **Dhaka, Bangladesh**. Over the past few years I single-handedly designed, built, and now maintain the **CosmicTRD ecosystem** — a network of **12+ live production platforms** spanning customer portals, B2B wholesale, dropshipping, fulfillment, escrow, and content.
 
-Alongside the engineering, I run the numbers: **data analysis & business intelligence**, **accounting**, and **performance marketing**. I'm also the **founder of [Menev](https://menev.store)**, my own men's fashion brand, and I currently study **BSc in Data Science** at United International University (UIU).
+Alongside the engineering, I work across **data analysis & business intelligence, ETL / data pipelines, accounting, and performance marketing**. I'm also the **founder of [Menev](https://menev.store)**, my own men's fashion brand, and I currently study **BSc in Data Science** at United International University (UIU).
 
-I work fast and ship complete, production-grade systems — combining solid Python fundamentals with a modern, **AI-augmented workflow** that lets me move confidently across any stack.
+**Highlights**
+
+- 🏗️ Architected & shipped **12+ production platforms** end-to-end — solo
+- 🗄️ Backed by a **180+ table** relational schema, used daily by a **16-member operations team**
+- 💱 **Multi-currency** commerce (6 currencies) with wallets, escrow & payment-gateway integrations
+- 📣 Managed **$32K+** in Meta ad spend over 8 months
+
+I ship complete, production-grade systems fast — combining solid Python fundamentals with a modern, **AI-augmented workflow** that lets me move confidently across any stack.
 
 ---
 
@@ -60,6 +67,8 @@ I work fast and ship complete, production-grade systems — combining solid Pyth
 
 Currently pursuing a **BSc in Data Science @ UIU**. I've built a range of Python machine-learning projects during my coursework — **publishing them here soon.** ⏳
 
+Beyond modeling, I work hands-on with **SQL (MySQL/MariaDB)** and **ETL / data pipelines** — extracting, transforming, and managing data end-to-end, and turning it into reporting and business intelligence.
+
 <sub>Watch this space — classification, prediction, and data-analysis notebooks are on the way and will be pinned to my profile.</sub>
 
 ---
@@ -74,11 +83,16 @@ Currently pursuing a **BSc in Data Science @ UIU**. I've built a range of Python
 <br/>
 <img src="https://skillicons.dev/icons?i=linux,git,cloudflare,nginx&theme=dark" alt="Infra & tooling" />
 
-<br/><br/>
-
-<sub>＋ Data analysis &amp; Business Intelligence · Pandas · and an <b>AI-augmented workflow</b> (Claude) for rapid, reliable delivery</sub>
-
 </div>
+
+| Area | Tools & technologies |
+| :-- | :-- |
+| **Languages** | Python · JavaScript · TypeScript · PHP · SQL |
+| **Backend & full-stack** | Node.js · React · Next.js · REST APIs · Tailwind CSS |
+| **Databases & data engineering** | MySQL / MariaDB · ETL & data pipelines · data modeling |
+| **Data & analytics** | Data analysis · Business Intelligence · Pandas |
+| **Infra & DevOps** | Linux / VPS · Git · Cloudflare · Nginx · deployment |
+| **Workflow** | AI-augmented development (Claude) for rapid, reliable delivery |
 
 ---
 

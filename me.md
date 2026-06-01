@@ -18,8 +18,8 @@ What sets my work apart isn't a single language or framework — it's the abilit
 ### 🧑‍💻 Engineering
 I build full-stack web platforms end-to-end — from database schema design through backend APIs, payment integrations, and polished frontends. My core language is **Python**, but I work comfortably across **JavaScript/TypeScript, PHP, React, Next.js, Node.js, and SQL**, supported by a modern **AI-augmented workflow** that lets me move fast and ship confidently in any stack.
 
-### 📊 Data & Business Intelligence
-At Cosmic Trading I handle **data analysis and business intelligence** — turning raw operational data into reporting and decisions that the business actually runs on.
+### 📊 Data, BI & Engineering
+At Cosmic Trading I handle **data analysis and business intelligence** — building **ETL / data pipelines**, working with **SQL (MySQL / MariaDB)**, and turning raw operational data into reporting and decisions that the business actually runs on.
 
 ### 📣 Performance Marketing
 I've spent **8 months running Meta (Facebook/Instagram) ad campaigns**, managing **$32,000+ in ad spend** — hands-on with audiences, creatives, budgets, and performance optimization.
@@ -32,6 +32,8 @@ I served as **COO and Business Development lead at Cosmic Bags**, and I handle *
 ## 🚀 The CosmicTRD ecosystem
 
 I built this entire suite of platforms on my own. The source code is private (commercial work), but every product below is live:
+
+> **Across the ecosystem:** 12+ platforms · a **180+ table** relational database used daily by a **16-member operations team** · multi-currency support (6 currencies) · wallets, escrow & payment-gateway integrations.
 
 | Platform | Description | My role |
 | :-- | :-- | :-- |
@@ -60,15 +62,19 @@ In **2023** I founded **[Menev](https://menev.store)**, a men's fashion brand. F
 
 As part of my **BSc in Data Science**, I've built a number of **Python machine-learning projects** — covering classification, prediction, and data analysis. I'll be publishing and pinning these on my GitHub profile **very soon**, so this section will grow with real, browsable notebooks.
 
+I also work hands-on with the data-engineering side: **SQL (MySQL / MariaDB)** and **ETL / data pipelines** — extracting, transforming, and managing data end-to-end.
+
 ---
 
 ## 🛠️ Skills
 
 **Languages:** Python (primary), JavaScript, TypeScript, PHP, SQL
 **Frontend:** React, Next.js, Tailwind CSS, HTML/CSS
-**Backend & data:** Node.js, MariaDB / MySQL, REST APIs, Pandas
-**Infra & tooling:** Linux / VPS, Git, Cloudflare, deployment & hosting
-**Practice areas:** Data analysis & BI, performance marketing, accounting, operations
+**Backend:** Node.js, REST APIs
+**Databases & data engineering:** MySQL / MariaDB, ETL & data pipelines, data modeling
+**Data & analytics:** Data analysis, Business Intelligence, Pandas
+**Infra & tooling:** Linux / VPS, Git, Cloudflare, Nginx, deployment & hosting
+**Practice areas:** Performance marketing, accounting, operations
 **Workflow:** AI-augmented development for rapid, reliable delivery
 
 ---

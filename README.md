@@ -44,7 +44,7 @@ I ship complete, production-grade systems fast — combining solid Python fundam
 
 ## 🚀 Selected work — *live products*
 
-> 🔒 The source code is **private (commercial work)** — but every link below is a real, live product I designed, built, and operate end-to-end.
+> 🔒 The source code is **private (commercial work)** — but every link below is a real, live product I designed and built.
 
 | Platform | What it is |
 | :-- | :-- |
@@ -52,7 +52,8 @@ I ship complete, production-grade systems fast — combining solid Python fundam
 | 🌏 **[chinawholesale.com.bd](https://chinawholesale.com.bd)** | Next.js B2B wholesale platform with 1688 / OTCommerce sourcing |
 | 📦 **[dropship.cosmictrd.com](https://dropship.cosmictrd.com)** | Full dropshipping platform with Shopify / WooCommerce integration |
 | 👔 **[menev.store](https://menev.store)** | **My own men's fashion brand — _Founder_** |
-| 🎒 **[cosmicbags.com.bd](https://cosmicbags.com.bd)** | Bags e-commerce — _COO & Business Development_ |
+| 🎒 **[cosmicbags.com.bd](https://cosmicbags.com.bd)** | WordPress / WooCommerce bags store — built it; _COO & Business Development_ |
+| 🌿 **[purehealth4u.com](https://www.purehealth4u.com)** | Custom PHP e-commerce store for an Ayurvedic wellness brand (India) |
 | 🏛️ **[formation.cosmictrd.com](https://formation.cosmictrd.com)** | US LLC / UK LTD business-formation service |
 | ⚙️ **[automation.cosmictrd.com](https://automation.cosmictrd.com)** | FBA prep & 3PL fulfillment platform |
 | 👥 **[groupshop.cosmictrd.com](https://groupshop.cosmictrd.com)** | Group-buy commerce platform |
@@ -79,7 +80,7 @@ Beyond modeling, I work hands-on with **SQL (MySQL/MariaDB)** and **ETL / data p
 
 <img src="https://skillicons.dev/icons?i=python,js,ts,php,mysql&theme=dark" alt="Languages" />
 <br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind&theme=dark" alt="Frameworks & frontend" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,wordpress&theme=dark" alt="Frameworks & frontend" />
 <br/>
 <img src="https://skillicons.dev/icons?i=linux,git,cloudflare,nginx&theme=dark" alt="Infra & tooling" />
 
@@ -89,8 +90,10 @@ Beyond modeling, I work hands-on with **SQL (MySQL/MariaDB)** and **ETL / data p
 | :-- | :-- |
 | **Languages** | Python · JavaScript · TypeScript · PHP · SQL |
 | **Backend & full-stack** | Node.js · React · Next.js · REST APIs · Tailwind CSS |
+| **CMS & e-commerce** | WordPress / WooCommerce · custom PHP storefronts |
 | **Databases & data engineering** | MySQL / MariaDB · ETL & data pipelines · data modeling |
 | **Data & analytics** | Data analysis · Business Intelligence · Pandas |
+| **Marketing & analytics** | Meta Pixel & Conversions API (CAPI) · GA4 · Google Tag Manager |
 | **Infra & DevOps** | Linux / VPS · Git · Cloudflare · Nginx · deployment |
 | **Workflow** | AI-augmented development (Claude) for rapid, reliable delivery |
 
@@ -101,7 +104,8 @@ Beyond modeling, I work hands-on with **SQL (MySQL/MariaDB)** and **ETL / data p
 I don't just build the product — I help run the business behind it.
 
 - 📊 **Data Analysis & Business Intelligence** — reporting and decision support across CosmicTRD
-- 📣 **Performance Marketing** — **managed $32K+ in Meta ad spend** over 8 months
+- 📈 **Business analysis & strategy** — business valuation, P&L, forecasting, and data-driven problem-finding & solutions
+- 📣 **Performance marketing & tracking** — managed **$32K+** in Meta ad spend; Meta Pixel & **Conversions API (CAPI)**, **GA4**, and **Google Tag Manager** integrations
 - 🧭 **COO & Business Development** — operations leadership at Cosmic Bags
 - 🧮 **Accounting & operations** — hands-on with the financial side
 - 🚀 **Founder** — launched **Menev** in 2023 and run it end-to-end

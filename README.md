@@ -7,7 +7,7 @@
 <!-- ============================  HERO BANNER  ============================ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:1a252f,100:e85d2a&height=210&section=header&text=Syed%20Talha%20Islam&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Engineer%20%C2%B7%20Data%20Science%20%C2%B7%20Founder%20of%20Menev&descAlignY=56&descSize=18&descColor=f0f0f0" alt="Syed Talha Islam" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:1a252f,100:e85d2a&height=210&section=header&text=Syed%20Talha%20Islam&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20%C2%B7%20Business%20Analyst%20%C2%B7%20Founder%20of%20Menev&descAlignY=56&descSize=18&descColor=f0f0f0" alt="Syed Talha Islam" />
 
 <!-- ============================  TYPING LINE  =========================== -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1100&color=E85D2A&center=true&vCenter=true&width=820&height=48&lines=Solo+architect+of+the+CosmicTRD+ecosystem;12%2B+production+platforms%2C+built+single-handedly;Data+Science+%40+United+International+University;AI-augmented+development+%E2%80%94+shipping+fast" alt="What I do" />
@@ -27,7 +27,7 @@
 
 ## 👋 About me
 
-I'm a full-stack engineer and business builder based in **Dhaka, Bangladesh**. Over the past few years I single-handedly designed, built, and now maintain the **CosmicTRD ecosystem** — a network of **12+ live production platforms** spanning customer portals, B2B wholesale, dropshipping, fulfillment, escrow, and content.
+I'm a full-stack developer and business analyst based in **Dhaka, Bangladesh**. Over the past few years I single-handedly designed, built, and now maintain the **CosmicTRD ecosystem** — a network of **12+ live production platforms** spanning customer portals, B2B wholesale, dropshipping, fulfillment, escrow, and content.
 
 Alongside the engineering, I work across **data analysis & business intelligence, ETL / data pipelines, accounting, and performance marketing**. I'm also the **founder of [Menev](https://menev.store)**, my own men's fashion brand, and I currently study **BSc in Data Science** at United International University (UIU).
 

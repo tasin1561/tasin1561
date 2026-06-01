@@ -1,13 +1,13 @@
 # 👤 About Me — Syed Talha Islam
 
-> **Full-Stack Engineer · Data Science · Founder of [Menev](https://menev.store)**
+> **Full-Stack Developer · Business Analyst · Founder of [Menev](https://menev.store)**
 > Dhaka, Bangladesh 🇧🇩 · islamsyedtalha@gmail.com
 
 ---
 
 ## Who I am
 
-I'm **Syed Talha Islam** — a full-stack engineer and business builder from Dhaka. I'm the **solo engineer behind the entire CosmicTRD ecosystem**: a network of 12+ live production platforms that I designed, built, and continue to operate single-handedly. I'm also the **founder of Menev**, my own men's fashion brand, and I'm currently pursuing a **BSc in Data Science** at United International University (UIU).
+I'm **Syed Talha Islam** — a full-stack developer and business analyst from Dhaka. I'm the **solo developer behind the entire CosmicTRD ecosystem**: a network of 12+ live production platforms that I designed, built, and continue to operate single-handedly. I'm also the **founder of Menev**, my own men's fashion brand, and I'm currently pursuing a **BSc in Data Science** at United International University (UIU).
 
 What sets my work apart isn't a single language or framework — it's the ability to take a business problem and ship a complete, production-grade system around it: the database, the backend, the frontend, the payments, the operations, and the marketing that drives it.
 
@@ -40,16 +40,16 @@ I built this entire suite of platforms on my own. The source code is private (co
 
 | Platform | Description | My role |
 | :-- | :-- | :-- |
-| **[cosmictrd.io](https://cosmictrd.io)** | Customer portal — orders, multi-currency wallet, payments, tracking | Sole engineer |
-| **[chinawholesale.com.bd](https://chinawholesale.com.bd)** | Next.js B2B wholesale platform with 1688 / OTCommerce sourcing | Sole engineer |
-| **[dropship.cosmictrd.com](https://dropship.cosmictrd.com)** | Dropshipping platform with Shopify / WooCommerce integration | Sole engineer |
-| **[formation.cosmictrd.com](https://formation.cosmictrd.com)** | US LLC / UK LTD business-formation service | Sole engineer |
-| **[automation.cosmictrd.com](https://automation.cosmictrd.com)** | FBA prep & 3PL fulfillment platform | Sole engineer |
-| **[groupshop.cosmictrd.com](https://groupshop.cosmictrd.com)** | Group-buy commerce platform | Sole engineer |
-| **[tradeassurance.cosmictrd.com](https://tradeassurance.cosmictrd.com)** | Escrow / trade-assurance system | Sole engineer |
-| **[university.cosmictrd.com](https://university.cosmictrd.com)** | E-commerce knowledge hub & guides | Sole engineer |
-| **[cosmictrd.com](https://cosmictrd.com)** | Corporate site & service hub | Sole engineer |
-| **[blog.cosmictrd.com](https://blog.cosmictrd.com)** | Content & SEO blog | Sole engineer |
+| **[cosmictrd.io](https://cosmictrd.io)** | Customer portal — orders, multi-currency wallet, payments, tracking | Sole developer |
+| **[chinawholesale.com.bd](https://chinawholesale.com.bd)** | Next.js B2B wholesale platform with 1688 / OTCommerce sourcing | Sole developer |
+| **[dropship.cosmictrd.com](https://dropship.cosmictrd.com)** | Dropshipping platform with Shopify / WooCommerce integration | Sole developer |
+| **[formation.cosmictrd.com](https://formation.cosmictrd.com)** | US LLC / UK LTD business-formation service | Sole developer |
+| **[automation.cosmictrd.com](https://automation.cosmictrd.com)** | FBA prep & 3PL fulfillment platform | Sole developer |
+| **[groupshop.cosmictrd.com](https://groupshop.cosmictrd.com)** | Group-buy commerce platform | Sole developer |
+| **[tradeassurance.cosmictrd.com](https://tradeassurance.cosmictrd.com)** | Escrow / trade-assurance system | Sole developer |
+| **[university.cosmictrd.com](https://university.cosmictrd.com)** | E-commerce knowledge hub & guides | Sole developer |
+| **[cosmictrd.com](https://cosmictrd.com)** | Corporate site & service hub | Sole developer |
+| **[blog.cosmictrd.com](https://blog.cosmictrd.com)** | Content & SEO blog | Sole developer |
 | **[cosmicbags.com.bd](https://cosmicbags.com.bd)** | WordPress / WooCommerce bags store | Built it · COO & BizDev |
 | **[menev.store](https://menev.store)** | Men's fashion brand | **Founder** |
 
@@ -108,7 +108,7 @@ I also work hands-on with the data-engineering side: **SQL (MySQL / MariaDB)** a
 
 ## 🤝 How I work
 
-I like ownership. I'm comfortable being the only engineer in the room, taking a product from idea to live deployment, and staying close to the business side so the technology actually serves a goal. I ship complete, production-ready work — not prototypes — and I iterate quickly with a modern, AI-assisted toolchain.
+I like ownership. I'm comfortable being the only developer in the room, taking a product from idea to live deployment, and staying close to the business side so the technology actually serves a goal. I ship complete, production-ready work — not prototypes — and I iterate quickly with a modern, AI-assisted toolchain.
 
 ---
 

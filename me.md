@@ -21,8 +21,11 @@ I build full-stack web platforms end-to-end — from database schema design thro
 ### 📊 Data, BI & Engineering
 At Cosmic Trading I handle **data analysis and business intelligence** — building **ETL / data pipelines**, working with **SQL (MySQL / MariaDB)**, and turning raw operational data into reporting and decisions that the business actually runs on.
 
-### 📣 Performance Marketing
-I've spent **8 months running Meta (Facebook/Instagram) ad campaigns**, managing **$32,000+ in ad spend** — hands-on with audiences, creatives, budgets, and performance optimization.
+### 📣 Performance Marketing & Tracking
+I've spent **8 months running Meta (Facebook/Instagram) ad campaigns**, managing **$32,000+ in ad spend** — hands-on with audiences, creatives, budgets, and optimization. I also implement the measurement stack: **Meta Pixel & Conversions API (CAPI)**, **GA4**, and **Google Tag Manager (GTM)**.
+
+### 📈 Business Analysis
+I do **business analysis, business valuation, and P&L**, plus **business forecasting** and **data-driven problem-finding** — surfacing issues from the data and proposing actionable solutions.
 
 ### 🧭 Operations & Leadership
 I served as **COO and Business Development lead at Cosmic Bags**, and I handle **accounting and operations** across the business. I founded and run **Menev** myself.
@@ -47,8 +50,10 @@ I built this entire suite of platforms on my own. The source code is private (co
 | **[university.cosmictrd.com](https://university.cosmictrd.com)** | E-commerce knowledge hub & guides | Sole engineer |
 | **[cosmictrd.com](https://cosmictrd.com)** | Corporate site & service hub | Sole engineer |
 | **[blog.cosmictrd.com](https://blog.cosmictrd.com)** | Content & SEO blog | Sole engineer |
-| **[cosmicbags.com.bd](https://cosmicbags.com.bd)** | Bags e-commerce | COO & Business Development |
+| **[cosmicbags.com.bd](https://cosmicbags.com.bd)** | WordPress / WooCommerce bags store | Built it · COO & BizDev |
 | **[menev.store](https://menev.store)** | Men's fashion brand | **Founder** |
+
+**Other client work:** I also built **[purehealth4u.com](https://www.purehealth4u.com)** — a custom PHP e-commerce store for an Ayurvedic wellness brand in India.
 
 ---
 
@@ -71,10 +76,12 @@ I also work hands-on with the data-engineering side: **SQL (MySQL / MariaDB)** a
 **Languages:** Python (primary), JavaScript, TypeScript, PHP, SQL
 **Frontend:** React, Next.js, Tailwind CSS, HTML/CSS
 **Backend:** Node.js, REST APIs
+**CMS & e-commerce:** WordPress / WooCommerce, custom PHP storefronts
 **Databases & data engineering:** MySQL / MariaDB, ETL & data pipelines, data modeling
 **Data & analytics:** Data analysis, Business Intelligence, Pandas
+**Marketing & analytics:** Meta Pixel & Conversions API (CAPI), GA4, Google Tag Manager
 **Infra & tooling:** Linux / VPS, Git, Cloudflare, Nginx, deployment & hosting
-**Practice areas:** Performance marketing, accounting, operations
+**Practice areas:** Business analysis, business valuation, P&L & forecasting, accounting, operations
 **Workflow:** AI-augmented development for rapid, reliable delivery
 
 ---

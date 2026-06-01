@@ -1,7 +1,7 @@
 # 👤 About Me — Syed Talha Islam
 
 > **Full-Stack Engineer · Data Science · Founder of [Menev](https://menev.store)**
-> Dhaka, Bangladesh 🇧🇩 · [talha.my](https://talha.my) · islamsyedtalha@gmail.com
+> Dhaka, Bangladesh 🇧🇩 · islamsyedtalha@gmail.com
 
 ---
 
@@ -103,7 +103,6 @@ I'm **open to full-time roles, freelance / contract work, and agency partnership
 
 - 📧 **Email:** islamsyedtalha@gmail.com
 - 💬 **WhatsApp:** [+880 1819 912939](https://wa.me/8801819912939)
-- 🌐 **Website:** [talha.my](https://talha.my)
 - 📍 **Location:** Dhaka, Bangladesh
 
 ---

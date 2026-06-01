@@ -10,15 +10,12 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:1a252f,100:e85d2a&height=210&section=header&text=Syed%20Talha%20Islam&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Engineer%20%C2%B7%20Data%20Science%20%C2%B7%20Founder%20of%20Menev&descAlignY=56&descSize=18&descColor=f0f0f0" alt="Syed Talha Islam" />
 
 <!-- ============================  TYPING LINE  =========================== -->
-<a href="https://talha.my">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1100&color=E85D2A&center=true&vCenter=true&width=820&height=48&lines=Solo+architect+of+the+CosmicTRD+ecosystem;12%2B+production+platforms%2C+built+single-handedly;Data+Science+%40+United+International+University;AI-augmented+development+%E2%80%94+shipping+fast" alt="What I do" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1100&color=E85D2A&center=true&vCenter=true&width=820&height=48&lines=Solo+architect+of+the+CosmicTRD+ecosystem;12%2B+production+platforms%2C+built+single-handedly;Data+Science+%40+United+International+University;AI-augmented+development+%E2%80%94+shipping+fast" alt="What I do" />
 
 <!-- ============================  QUICK BADGES  ========================== -->
 <p>
   <a href="mailto:islamsyedtalha@gmail.com"><img src="https://img.shields.io/badge/Email-islamsyedtalha@gmail.com-E85D2A?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://wa.me/8801819912939"><img src="https://img.shields.io/badge/WhatsApp-%2B880%201819%20912939-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-  <a href="https://talha.my"><img src="https://img.shields.io/badge/Website-talha.my-0D1117?style=flat-square&logo=googlechrome&logoColor=E85D2A" alt="Website" /></a>
   <img src="https://img.shields.io/badge/Dhaka,_Bangladesh-555555?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
 </p>
 
@@ -143,7 +140,6 @@ I'm **open to full-time roles, freelance / contract work, and agency partnership
 <p align="left">
   <a href="mailto:islamsyedtalha@gmail.com"><img src="https://img.shields.io/badge/Email-islamsyedtalha@gmail.com-E85D2A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://wa.me/8801819912939"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-  <a href="https://talha.my"><img src="https://img.shields.io/badge/Portfolio-talha.my-0D1117?style=for-the-badge&logo=googlechrome&logoColor=E85D2A" alt="Website" /></a>
 </p>
 
 <div align="center">

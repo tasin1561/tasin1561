@@ -16,7 +16,7 @@ What sets my work apart isn't a single language or framework — it's the abilit
 ## What I do
 
 ### 🧑‍💻 Engineering
-I build full-stack web platforms end-to-end — from database schema design through backend APIs, payment integrations, and polished frontends. My core language is **Python**, but I work comfortably across **JavaScript/TypeScript, PHP, React, Next.js, Node.js, and SQL**, supported by a modern **AI-augmented workflow** that lets me move fast and ship confidently in any stack.
+I build full-stack web platforms end-to-end — **UI/UX design, frontend, backend, database design, payment integrations, web-app security & hardening, and QA testing.** My core language is **Python**, but I work comfortably across **JavaScript/TypeScript, PHP, React, Next.js, Node.js, and SQL**, supported by a modern **AI-augmented workflow** that lets me move fast and ship confidently in any stack.
 
 ### 📊 Data, BI & Engineering
 At Cosmic Trading I handle **data analysis and business intelligence** — building **ETL / data pipelines**, working with **SQL (MySQL / MariaDB)**, and turning raw operational data into reporting and decisions that the business actually runs on.
@@ -75,11 +75,13 @@ I also work hands-on with the data-engineering side: **SQL (MySQL / MariaDB)** a
 
 **Languages:** Python (primary), JavaScript, TypeScript, PHP, SQL
 **Frontend:** React, Next.js, Tailwind CSS, HTML/CSS
+**Design:** UI/UX design, responsive & mobile-first interfaces
 **Backend:** Node.js, REST APIs
 **CMS & e-commerce:** WordPress / WooCommerce, custom PHP storefronts
 **Databases & data engineering:** MySQL / MariaDB, ETL & data pipelines, data modeling
 **Data & analytics:** Data analysis, Business Intelligence, Pandas
 **Marketing & analytics:** Meta Pixel & Conversions API (CAPI), GA4, Google Tag Manager
+**Quality & security:** QA & testing, web-app security & hardening
 **Infra & tooling:** Linux / VPS, Git, Cloudflare, Nginx, deployment & hosting
 **Practice areas:** Business analysis, business valuation, P&L & forecasting, accounting, operations
 **Workflow:** AI-augmented development for rapid, reliable delivery

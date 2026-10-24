@@ -98,8 +98,6 @@ As part of my **BSc in Data Science**, I build real projects rather than toy not
 - **Address validation ML** — an Indian address deliverability model trained on courier RTO data, with DVC pipelines, a Feast feature store and River online learning.
 - **DhakaDrive AI** (capstone / thesis) — a sensor-fused decision model for braking, lane changes and speed control in Dhaka's mixed traffic, using a dual Raspberry Pi camera rig, proximity sensors and imitation learning.
 
-Public repos: [Trendoscope](https://github.com/tasin1561/Trendoscope) · [AI-Forex-Quant-OS](https://github.com/tasin1561/AI-Forex-Quant-OS)
-
 I also work hands-on with the data-engineering side: **SQL (MySQL / MariaDB)** and **ETL / data pipelines** — extracting, transforming, and managing data end-to-end.
 
 ---

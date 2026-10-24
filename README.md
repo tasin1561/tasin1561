@@ -131,8 +131,6 @@ Currently pursuing a **BSc in Data Science @ UIU**.
 | 📍 **Address validation ML** | Indian address deliverability model trained on courier RTO data — DVC pipelines, Feast feature store, River online learning |
 | 🛵 **DhakaDrive AI** *(capstone / thesis)* | Sensor-fused decision model (braking, lane change, speed) for autonomous driving in Dhaka's mixed traffic — dual Raspberry Pi camera rig + proximity sensors, imitation learning |
 
-Public repos: [Trendoscope](https://github.com/tasin1561/Trendoscope) · [AI-Forex-Quant-OS](https://github.com/tasin1561/AI-Forex-Quant-OS)
-
 Beyond modeling, I work hands-on with **SQL (MySQL/MariaDB)** and **ETL / data pipelines** — extracting, transforming, and managing data end-to-end, and turning it into reporting and business intelligence.
 
 ---

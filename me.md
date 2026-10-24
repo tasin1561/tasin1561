@@ -1,13 +1,13 @@
 # 👤 About Me — Syed Talha Islam
 
-> **Founder of Solustation · Co-owner & CEO of BetaBroad · Full-Stack Developer · Business Analyst · Founder of [Menev](https://menev.store)**
+> **Founder of Solustation & [Menev](https://menev.store) · Co-owner & CEO of BetaBroad · Full-Stack Developer · Data & Business Analyst**
 > Dhaka, Bangladesh 🇧🇩 · islamsyedtalha@gmail.com
 
 ---
 
 ## Who I am
 
-I'm **Syed Talha Islam** — a full-stack developer, business analyst and founder from Dhaka. I founded **Solustation**, the technology company that builds and runs every platform across my group of businesses, and I'm **co-owner & CEO of BetaBroad**, the company behind **[Delivro](https://delivro.app)**. I'm the **lead developer and system architect of the CosmicTRD ecosystem** — 12+ live production platforms — and of **[Skydrop](https://skydrop.online)**, a cross-border Bangladesh ⇄ India courier platform. I'm also the **founder of Menev**, my men's fashion brand, and I'm pursuing a **BSc in Data Science** at United International University (UIU).
+I'm **Syed Talha Islam** — a full-stack developer, **data & business analyst** and founder from Dhaka. I founded **Solustation**, the technology company that builds and runs every platform across my group of businesses, and I'm **co-owner & CEO of BetaBroad**, the company behind **[Delivro](https://delivro.app)**. I'm the **lead developer and system architect of the CosmicTRD ecosystem** — 12+ live production platforms — and of **[Skydrop](https://skydrop.online)**, a cross-border Bangladesh ⇄ India courier platform. I'm also the **founder of Menev**, my men's fashion brand, and I'm pursuing a **BSc in Data Science** at United International University (UIU).
 
 What sets my work apart isn't a single language or framework — it's the ability to take a business problem and ship a complete, production-grade system around it: the database, the backend, the frontend, the payments, the operations, and the marketing that drives it.
 
@@ -24,7 +24,7 @@ What sets my work apart isn't a single language or framework — it's the abilit
 ### 🧑‍💻 Engineering
 I build full-stack web platforms end-to-end — **UI/UX design, frontend, backend, database design, payment integrations, courier integrations, web-app security & hardening, and QA testing.** My core language is **Python**, but I work comfortably across **JavaScript/TypeScript, PHP, React, Next.js, Node.js, Laravel and SQL**, supported by a modern **AI-augmented workflow** that lets me move fast and ship confidently in any stack.
 
-### 📊 Data, BI & Engineering
+### 📊 Data Analysis & Business Intelligence
 At Cosmic Trading I handle **data analysis and business intelligence** — building **ETL / data pipelines**, working with **SQL (MySQL / MariaDB)**, and turning raw operational data into reporting and decisions that the business actually runs on.
 
 ### 🤖 AI & Automation

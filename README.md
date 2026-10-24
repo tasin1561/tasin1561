@@ -7,10 +7,10 @@
 <!-- ============================  HERO BANNER  ============================ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:1a252f,100:e85d2a&height=210&section=header&text=Syed%20Talha%20Islam&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Founder%20of%20Solustation%20%C2%B7%20CEO%20of%20BetaBroad%20%C2%B7%20Full-Stack%20Developer&descAlignY=56&descSize=18&descColor=f0f0f0" alt="Syed Talha Islam" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:1a252f,100:e85d2a&height=210&section=header&text=Syed%20Talha%20Islam&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Founder%20of%20Solustation%20%26%20Menev%20%C2%B7%20CEO%20of%20BetaBroad%20%C2%B7%20Full-Stack%20Developer%20%26%20Data%20Analyst&descAlignY=56&descSize=16&descColor=f0f0f0" alt="Syed Talha Islam" />
 
 <!-- ============================  TYPING LINE  =========================== -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1100&color=E85D2A&center=true&vCenter=true&width=820&height=48&lines=Founder+of+Solustation+%E2%80%94+the+tech+behind+the+group;Co-owner+%26+CEO+of+BetaBroad+%C2%B7+building+Delivro;Lead+architect+of+CosmicTRD+%26+Skydrop;Data+Science+%40+United+International+University;AI-augmented+development+%E2%80%94+shipping+fast" alt="What I do" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1100&color=E85D2A&center=true&vCenter=true&width=820&height=48&lines=Founder+of+Solustation+%E2%80%94+the+tech+behind+the+group;Founder+of+Menev+%E2%80%94+men%27s+fashion+brand;Data+%26+Business+Analyst+%C2%B7+BI%2C+ETL%2C+forecasting;Co-owner+%26+CEO+of+BetaBroad+%C2%B7+building+Delivro;Lead+architect+of+CosmicTRD+%26+Skydrop;Data+Science+%40+United+International+University;AI-augmented+development+%E2%80%94+shipping+fast" alt="What I do" />
 
 <!-- ============================  QUICK BADGES  ========================== -->
 <p>
@@ -27,13 +27,15 @@
 
 ## 👋 About me
 
-I'm a full-stack developer, business analyst and founder based in **Dhaka, Bangladesh**. I founded **Solustation**, the tech company that designs, builds, hosts and automates every platform across my group of businesses. I'm **co-owner & CEO of BetaBroad**, the company behind **[Delivro](https://delivro.app)**. I'm also the lead developer and system architect of the **CosmicTRD ecosystem** (12+ live production platforms) and of **[Skydrop](https://skydrop.online)**, a cross-border Bangladesh ⇄ India courier platform.
+I'm a full-stack developer, **data & business analyst** and founder based in **Dhaka, Bangladesh**. I founded **Solustation**, the tech company that designs, builds, hosts and automates every platform across my group of businesses. I'm **co-owner & CEO of BetaBroad**, the company behind **[Delivro](https://delivro.app)**. I'm also the lead developer and system architect of the **CosmicTRD ecosystem** (12+ live production platforms) and of **[Skydrop](https://skydrop.online)**, a cross-border Bangladesh ⇄ India courier platform.
 
 Alongside the engineering, I work across **data analysis & business intelligence, ETL / data pipelines, accounting, and performance marketing**. I'm the **founder of [Menev](https://menev.store)**, my men's fashion brand, and I study **BSc in Data Science** at United International University (UIU).
 
 **Highlights**
 
 - 🛰️ Founder of **Solustation** — one tech company powering every venture in the group
+- 👔 Founder of **[Menev](https://menev.store)** (2023) — my men's fashion brand, run end-to-end
+- 📊 **Data & business analyst** — BI, ETL pipelines, P&L, valuation and forecasting across the CosmicTRD business
 - 🧭 Co-owner & CEO of **BetaBroad** — launching **Delivro**, server-side ad tracking for Bangladeshi sellers
 - 🏗️ Architected & shipped **12+ CosmicTRD production platforms** end-to-end — solo
 - 🚚 **Skydrop:** 5 live apps on a Turborepo monorepo — **~113k lines of TypeScript**, COD wallet & remittance ledger, Delhivery integration
@@ -70,6 +72,24 @@ Everything below is built and powered by Solustation.
 | 🌿 **[roastedherbs.store](https://roastedherbs.store)** | My herbal-tea brand — custom PHP store with a multilingual (EN / বাংলা / हिन्दी) COD landing page | Founder |
 | 👜 **[nureyza.store](https://nureyza.store)** | Pre-order fashion accessories brand — custom order-tracking site with advance payments & customer portal | Founder |
 | 👔 **[menev.store](https://menev.store)** | **My men's fashion brand** | **Founder** |
+
+---
+
+## 👔 Menev — my own brand
+
+In **2023** I founded **[Menev](https://menev.store)**, a men's fashion brand. From product to storefront to operations, it's mine end-to-end — and it's where I get to be both the builder and the business owner.
+
+---
+
+## 📊 Data & Business Analysis
+
+Data analysis is the other half of what I do. At Cosmic Trading I own **data analysis and business intelligence** — the reporting the business actually runs on.
+
+- 🔄 **ETL / data pipelines** — extracting, cleaning and modelling operational data from a **180+ table** MySQL / MariaDB system
+- 📊 **BI & reporting** — dashboards and decision support for a **16-member operations team** (Power BI, Streamlit, SQL)
+- 📈 **Business analysis** — P&L, business valuation, forecasting, and data-driven problem-finding with actionable fixes
+- 📣 **Marketing analytics** — ad performance across **$32K+** of Meta spend; Pixel, CAPI, GA4 and GTM measurement
+- 🧪 **Honest analysis** — pre-registered tests, train / validate / holdout splits and baselines, so results hold up
 
 ---
 

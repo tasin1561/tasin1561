@@ -7,10 +7,10 @@
 <!-- ============================  HERO BANNER  ============================ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:1a252f,100:e85d2a&height=210&section=header&text=Syed%20Talha%20Islam&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20%C2%B7%20Business%20Analyst%20%C2%B7%20Founder%20of%20Menev&descAlignY=56&descSize=18&descColor=f0f0f0" alt="Syed Talha Islam" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:1a252f,100:e85d2a&height=210&section=header&text=Syed%20Talha%20Islam&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Founder%20of%20Solustation%20%C2%B7%20CEO%20of%20BetaBroad%20%C2%B7%20Full-Stack%20Developer&descAlignY=56&descSize=18&descColor=f0f0f0" alt="Syed Talha Islam" />
 
 <!-- ============================  TYPING LINE  =========================== -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1100&color=E85D2A&center=true&vCenter=true&width=820&height=48&lines=Solo+architect+of+the+CosmicTRD+ecosystem;12%2B+production+platforms%2C+built+single-handedly;Data+Science+%40+United+International+University;AI-augmented+development+%E2%80%94+shipping+fast" alt="What I do" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1100&color=E85D2A&center=true&vCenter=true&width=820&height=48&lines=Founder+of+Solustation+%E2%80%94+the+tech+behind+the+group;Co-owner+%26+CEO+of+BetaBroad+%C2%B7+building+Delivro;Lead+architect+of+CosmicTRD+%26+Skydrop;Data+Science+%40+United+International+University;AI-augmented+development+%E2%80%94+shipping+fast" alt="What I do" />
 
 <!-- ============================  QUICK BADGES  ========================== -->
 <p>
@@ -27,14 +27,17 @@
 
 ## 👋 About me
 
-I'm a full-stack developer and business analyst based in **Dhaka, Bangladesh**. Over the past few years I single-handedly designed, built, and now maintain the **CosmicTRD ecosystem** — a network of **12+ live production platforms** spanning customer portals, B2B wholesale, dropshipping, fulfillment, escrow, and content.
+I'm a full-stack developer, business analyst and founder based in **Dhaka, Bangladesh**. I founded **Solustation**, the tech company that designs, builds, hosts and automates every platform across my group of businesses. I'm **co-owner & CEO of BetaBroad**, the company behind **[Delivro](https://delivro.app)**. I'm also the lead developer and system architect of the **CosmicTRD ecosystem** (12+ live production platforms) and of **[Skydrop](https://skydrop.online)**, a cross-border Bangladesh ⇄ India courier platform.
 
-Alongside the engineering, I work across **data analysis & business intelligence, ETL / data pipelines, accounting, and performance marketing**. I'm also the **founder of [Menev](https://menev.store)**, my own men's fashion brand, and I currently study **BSc in Data Science** at United International University (UIU).
+Alongside the engineering, I work across **data analysis & business intelligence, ETL / data pipelines, accounting, and performance marketing**. I'm the **founder of [Menev](https://menev.store)**, my men's fashion brand, and I study **BSc in Data Science** at United International University (UIU).
 
 **Highlights**
 
-- 🏗️ Architected & shipped **12+ production platforms** end-to-end — solo
-- 🗄️ Backed by a **180+ table** relational schema, used daily by a **16-member operations team**
+- 🛰️ Founder of **Solustation** — one tech company powering every venture in the group
+- 🧭 Co-owner & CEO of **BetaBroad** — launching **Delivro**, server-side ad tracking for Bangladeshi sellers
+- 🏗️ Architected & shipped **12+ CosmicTRD production platforms** end-to-end — solo
+- 🚚 **Skydrop:** 5 live apps on a Turborepo monorepo — **~113k lines of TypeScript**, COD wallet & remittance ledger, Delhivery integration
+- 🗄️ A **180+ table** relational schema used daily by a **16-member operations team**
 - 💱 **Multi-currency** commerce (6 currencies) with wallets, escrow & payment-gateway integrations
 - 📣 Managed **$32K+** in Meta ad spend over 8 months
 
@@ -42,7 +45,35 @@ I ship complete, production-grade systems fast — combining solid Python fundam
 
 ---
 
-## 🚀 Selected work — *live products*
+## 🛰️ Solustation
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/solustation-lockup-reversed.svg" />
+  <img src="./assets/solustation-lockup.svg" alt="Solustation" width="360" />
+</picture>
+</div>
+
+**Solustation** is my own technology company — one line, every venture a station. It builds and runs the websites, apps and automation for the businesses in my group, and offers the same to clients: **tech consulting, business automation, product builds and microservices.**
+
+Everything below is built and powered by Solustation.
+
+---
+
+## 🚀 Ventures & products — *new*
+
+| Product | What it is | My role |
+| :-- | :-- | :-- |
+| 🚚 **[skydrop.online](https://skydrop.online)** | Cross-border courier & COD fulfillment, Bangladesh ⇄ India — landing, public tracking, seller app, white-label reseller portal & staff console | Lead Developer & System Architect |
+| 📡 **[delivro.app](https://delivro.app)** | Server-side tracking SaaS for Bangladeshi sellers — Meta & TikTok Conversions API, server-side GA4, Purchase-on-delivery via courier status | Co-owner & CEO, BetaBroad · builder |
+| 📍 **Solustation Address** | Indian address validation API — scores deliverability and fills missing pincode, post office, district (ML + maps + Claude API) | Founder · *in development* |
+| 🌿 **[roastedherbs.store](https://roastedherbs.store)** | My herbal-tea brand — custom PHP store with a multilingual (EN / বাংলা / हिन्दी) COD landing page | Founder |
+| 👜 **Nureyza** | Pre-order fashion accessories brand — custom order-tracking site with advance payments & customer portal | Founder · *in development* |
+| 👔 **[menev.store](https://menev.store)** | **My men's fashion brand** | **Founder** |
+
+---
+
+## 🌏 The CosmicTRD ecosystem — *live products*
 
 > 🔒 The source code is **private (commercial work)** — but every link below is a real, live product I designed and built.
 
@@ -51,9 +82,7 @@ I ship complete, production-grade systems fast — combining solid Python fundam
 | 🛒 **[cosmictrd.io](https://cosmictrd.io)** | Customer portal — orders, multi-currency wallet, payments & tracking |
 | 🌏 **[chinawholesale.com.bd](https://chinawholesale.com.bd)** | Next.js B2B wholesale platform with 1688 / OTCommerce sourcing |
 | 📦 **[dropship.cosmictrd.com](https://dropship.cosmictrd.com)** | Full dropshipping platform with Shopify / WooCommerce integration |
-| 👔 **[menev.store](https://menev.store)** | **My own men's fashion brand — _Founder_** |
 | 🎒 **[cosmicbags.com.bd](https://cosmicbags.com.bd)** | WordPress / WooCommerce bags store — built it; _COO & Business Development_ |
-| 🌿 **[purehealth4u.com](https://www.purehealth4u.com)** | Custom PHP e-commerce store for an Ayurvedic wellness brand (India) |
 | 🏛️ **[formation.cosmictrd.com](https://formation.cosmictrd.com)** | US LLC / UK LTD business-formation service |
 | ⚙️ **[automation.cosmictrd.com](https://automation.cosmictrd.com)** | FBA prep & 3PL fulfillment platform |
 | 👥 **[groupshop.cosmictrd.com](https://groupshop.cosmictrd.com)** | Group-buy commerce platform |
@@ -64,13 +93,31 @@ I ship complete, production-grade systems fast — combining solid Python fundam
 
 ---
 
+## 🤖 AI & automation builds
+
+- **Jarvis** — my personal AI assistant on WhatsApp: reminders, notes, calendar and Bangla voice calls, with a web dashboard. Node, Claude API, ElevenLabs.
+- **Faceless video factory** — automated short-form video pipeline: AI video generation, TTS voice-over, a Flask dashboard and a Telegram control bot.
+- **Offline AI chat app** — on-device LLM chat for Android & iOS (Flutter + llama.cpp), no internet after the model downloads. *In development.*
+- **Event & trip platform** — enrollment, part-payments (bKash / Nagad / Rocket / card), seat pairing and admin money tracking; ran a 4-day group trip and the UIU Data Science Foundation Day event.
+
+---
+
 ## 🧠 Data Science & Machine Learning
 
-Currently pursuing a **BSc in Data Science @ UIU**. I've built a range of Python machine-learning projects during my coursework — **publishing them here soon.** ⏳
+Currently pursuing a **BSc in Data Science @ UIU**.
+
+| Project | What it is |
+| :-- | :-- |
+| 📍 **Address validation ML** | Indian address deliverability model trained on courier RTO data — DVC pipelines, Feast feature store, River online learning |
+| 🛵 **DhakaDrive AI** *(capstone / thesis)* | Sensor-fused decision model (braking, lane change, speed) for autonomous driving in Dhaka's mixed traffic — dual Raspberry Pi camera rig + proximity sensors, imitation learning |
+| 📉 **goldbt** | My Python backtesting & research engine for gold, FX, oil and crypto — real spreads, slippage, train / validate / locked-holdout splits and random-entry baselines. 700+ pre-registered trials; documented an honest negative: no intraday edge survives retail costs |
+| 📊 **Market signal dashboard** | Multi-asset (gold, BTC, US30) direction & volatility models with a 7-page Streamlit dashboard — joint course project |
+| 🖼️ **Image classification** | Pokémon type classifier, MobileNetV2 — **96.3%** validation accuracy |
+| ♟️ **Kaggle-style competition** | Chess tournament outcome prediction — public AUC 0.652 |
+
+Public repos: [Trendoscope](https://github.com/tasin1561/Trendoscope) · [AI-Forex-Quant-OS](https://github.com/tasin1561/AI-Forex-Quant-OS)
 
 Beyond modeling, I work hands-on with **SQL (MySQL/MariaDB)** and **ETL / data pipelines** — extracting, transforming, and managing data end-to-end, and turning it into reporting and business intelligence.
-
-<sub>Watch this space — classification, prediction, and data-analysis notebooks are on the way and will be pinned to my profile.</sub>
 
 ---
 
@@ -80,7 +127,7 @@ Beyond modeling, I work hands-on with **SQL (MySQL/MariaDB)** and **ETL / data p
 
 <img src="https://skillicons.dev/icons?i=python,js,ts,php,mysql&theme=dark" alt="Languages" />
 <br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,wordpress&theme=dark" alt="Frameworks & frontend" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,laravel,tailwind,wordpress,flutter&theme=dark" alt="Frameworks & frontend" />
 <br/>
 <img src="https://skillicons.dev/icons?i=linux,git,cloudflare,nginx&theme=dark" alt="Infra & tooling" />
 
@@ -89,15 +136,19 @@ Beyond modeling, I work hands-on with **SQL (MySQL/MariaDB)** and **ETL / data p
 | Area | Tools & technologies |
 | :-- | :-- |
 | **Languages** | Python · JavaScript · TypeScript · PHP · SQL |
-| **Backend & full-stack** | Node.js · React · Next.js · REST APIs · Tailwind CSS |
-| **Design & UX** | UI/UX design · responsive, mobile-first interfaces |
-| **CMS & e-commerce** | WordPress / WooCommerce · custom PHP storefronts |
+| **Backend & full-stack** | Node.js · React · Next.js · Laravel · REST APIs · webhooks · Tailwind CSS |
+| **Monorepos & apps** | Turborepo · pm2 · Caddy · Flutter |
+| **Design & UX** | UI/UX design · responsive, mobile-first interfaces · motion design |
+| **CMS & e-commerce** | WordPress / WooCommerce · custom PHP storefronts · Shopify integrations |
+| **Logistics integrations** | Delhivery · Shiprocket · Pathao · Steadfast · RedX · CarryBee |
 | **Databases & data engineering** | MySQL / MariaDB · ETL & data pipelines · data modeling |
-| **Data & analytics** | Data analysis · Business Intelligence · Pandas |
-| **Marketing & analytics** | Meta Pixel & Conversions API (CAPI) · GA4 · Google Tag Manager |
-| **Infra & DevOps** | Linux / VPS · Git · Cloudflare · Nginx · deployment |
+| **Data & ML** | Pandas · scikit-learn · DVC · Feast · River · Streamlit · Power BI |
+| **AI** | Claude API · LLM agents · ElevenLabs TTS · llama.cpp |
+| **Marketing & analytics** | Meta Pixel & Conversions API (CAPI) · TikTok Events API · GA4 · Google Tag Manager |
+| **Infra & DevOps** | Linux / VPS · Git · CI/CD · Cloudflare · Nginx · DigitalOcean · Akamai (Linode) |
+| **Automation** | Playwright browser automation · cron · bots (WhatsApp, Telegram) |
 | **Quality & security** | QA & testing · web-app security & hardening (Cloudflare WAF) |
-| **Workflow** | AI-augmented development (Claude) for rapid, reliable delivery |
+| **Workflow** | AI-augmented development (Claude Code) for rapid, reliable delivery |
 
 ---
 
@@ -105,12 +156,14 @@ Beyond modeling, I work hands-on with **SQL (MySQL/MariaDB)** and **ETL / data p
 
 I don't just build the product — I help run the business behind it.
 
+- 🛰️ **Founder** — Solustation, the tech company behind my group of businesses
+- 🧭 **Co-owner & CEO** — BetaBroad (Delivro)
 - 📊 **Data Analysis & Business Intelligence** — reporting and decision support across CosmicTRD
 - 📈 **Business analysis & strategy** — business valuation, P&L, forecasting, and data-driven problem-finding & solutions
 - 📣 **Performance marketing & tracking** — managed **$32K+** in Meta ad spend; Meta Pixel & **Conversions API (CAPI)**, **GA4**, and **Google Tag Manager** integrations
-- 🧭 **COO & Business Development** — operations leadership at Cosmic Bags
+- 🎒 **COO & Business Development** — operations leadership at Cosmic Bags
 - 🧮 **Accounting & operations** — hands-on with the financial side
-- 🚀 **Founder** — launched **Menev** in 2023 and run it end-to-end
+- 🚀 **Founder** — Menev (2023), Roasted Herbs and Nureyza, run end-to-end
 
 ---
 
@@ -121,7 +174,8 @@ I don't just build the product — I help run the business behind it.
 2020  ──  Joined Cosmic Trading
 2023  ──  Founded Menev (menev.store)
 2024  ──  Architected & shipped the full CosmicTRD ecosystem
-Now   ──  BSc in Data Science @ UIU  ·  scaling Menev  ·  shipping daily
+2026  ──  Founded Solustation · CEO of BetaBroad (Delivro) · launched Skydrop
+Now   ──  BSc in Data Science @ UIU  ·  scaling the group  ·  shipping daily
 ```
 
 ---

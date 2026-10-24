@@ -97,10 +97,6 @@ As part of my **BSc in Data Science**, I build real projects rather than toy not
 
 - **Address validation ML** — an Indian address deliverability model trained on courier RTO data, with DVC pipelines, a Feast feature store and River online learning.
 - **DhakaDrive AI** (capstone / thesis) — a sensor-fused decision model for braking, lane changes and speed control in Dhaka's mixed traffic, using a dual Raspberry Pi camera rig, proximity sensors and imitation learning.
-- **goldbt** — my Python backtesting and research engine for gold, FX, oil and crypto, with real spreads, slippage, train / validate / locked-holdout splits and random-entry baselines. After 700+ pre-registered trials it documents an honest negative: no intraday edge survives retail trading costs.
-- **Market signal dashboard** — multi-asset (gold, BTC, US30) direction and volatility models with a 7-page Streamlit dashboard (joint course project).
-- **Image classification** — a Pokémon type classifier on MobileNetV2 with **96.3%** validation accuracy.
-- **Kaggle-style competition** — chess tournament outcome prediction (public AUC 0.652).
 
 Public repos: [Trendoscope](https://github.com/tasin1561/Trendoscope) · [AI-Forex-Quant-OS](https://github.com/tasin1561/AI-Forex-Quant-OS)
 

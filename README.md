@@ -130,10 +130,6 @@ Currently pursuing a **BSc in Data Science @ UIU**.
 | :-- | :-- |
 | 📍 **Address validation ML** | Indian address deliverability model trained on courier RTO data — DVC pipelines, Feast feature store, River online learning |
 | 🛵 **DhakaDrive AI** *(capstone / thesis)* | Sensor-fused decision model (braking, lane change, speed) for autonomous driving in Dhaka's mixed traffic — dual Raspberry Pi camera rig + proximity sensors, imitation learning |
-| 📉 **goldbt** | My Python backtesting & research engine for gold, FX, oil and crypto — real spreads, slippage, train / validate / locked-holdout splits and random-entry baselines. 700+ pre-registered trials; documented an honest negative: no intraday edge survives retail costs |
-| 📊 **Market signal dashboard** | Multi-asset (gold, BTC, US30) direction & volatility models with a 7-page Streamlit dashboard — joint course project |
-| 🖼️ **Image classification** | Pokémon type classifier, MobileNetV2 — **96.3%** validation accuracy |
-| ♟️ **Kaggle-style competition** | Chess tournament outcome prediction — public AUC 0.652 |
 
 Public repos: [Trendoscope](https://github.com/tasin1561/Trendoscope) · [AI-Forex-Quant-OS](https://github.com/tasin1561/AI-Forex-Quant-OS)
 

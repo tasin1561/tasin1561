@@ -47,9 +47,9 @@ I lead **Solustation** as founder and **BetaBroad** as co-owner & CEO. I served 
 | :-- | :-- | :-- |
 | **[skydrop.online](https://skydrop.online)** | Cross-border courier & COD fulfillment, Bangladesh ⇄ India. Five apps — landing, public tracking, seller app, white-label reseller portal, staff console — on a Turborepo monorepo (~113k lines of TypeScript) with a COD wallet & remittance ledger and Delhivery integration | Lead Developer & System Architect |
 | **[delivro.app](https://delivro.app)** | Server-side tracking SaaS for Bangladeshi sellers: Meta & TikTok Conversions API, free server-side GA4, and Purchase events sent when the courier confirms delivery. Laravel | Co-owner & CEO, BetaBroad · builder |
-| **Solustation Address** | Indian address validation API — rates deliverability and fills missing pincode, post office, police station and district using ML, map data and the Claude API | Founder · in development |
+| **[address.solustation.site](https://address.solustation.site)** | Indian address validation API — rates deliverability and fills missing pincode, post office, police station and district using ML, map data and the Claude API | Founder |
 | **[roastedherbs.store](https://roastedherbs.store)** | Herbal-tea brand — custom PHP store with a multilingual (English / বাংলা / हिन्दी) cash-on-delivery landing page | Founder |
-| **Nureyza** | Pre-order fashion accessories brand — order-stage tracking, advance payments and a customer portal, in English and Bangla | Founder · in development |
+| **[nureyza.store](https://nureyza.store)** | Pre-order fashion accessories brand — order-stage tracking, advance payments and a customer portal, in English and Bangla | Founder |
 | **[menev.store](https://menev.store)** | Men's fashion brand | **Founder** |
 
 ---

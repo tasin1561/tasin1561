@@ -66,9 +66,9 @@ Everything below is built and powered by Solustation.
 | :-- | :-- | :-- |
 | 🚚 **[skydrop.online](https://skydrop.online)** | Cross-border courier & COD fulfillment, Bangladesh ⇄ India — landing, public tracking, seller app, white-label reseller portal & staff console | Lead Developer & System Architect |
 | 📡 **[delivro.app](https://delivro.app)** | Server-side tracking SaaS for Bangladeshi sellers — Meta & TikTok Conversions API, server-side GA4, Purchase-on-delivery via courier status | Co-owner & CEO, BetaBroad · builder |
-| 📍 **Solustation Address** | Indian address validation API — scores deliverability and fills missing pincode, post office, district (ML + maps + Claude API) | Founder · *in development* |
+| 📍 **[address.solustation.site](https://address.solustation.site)** | Indian address validation API — scores deliverability and fills missing pincode, post office, district (ML + maps + Claude API) | Founder |
 | 🌿 **[roastedherbs.store](https://roastedherbs.store)** | My herbal-tea brand — custom PHP store with a multilingual (EN / বাংলা / हिन्दी) COD landing page | Founder |
-| 👜 **Nureyza** | Pre-order fashion accessories brand — custom order-tracking site with advance payments & customer portal | Founder · *in development* |
+| 👜 **[nureyza.store](https://nureyza.store)** | Pre-order fashion accessories brand — custom order-tracking site with advance payments & customer portal | Founder |
 | 👔 **[menev.store](https://menev.store)** | **My men's fashion brand** | **Founder** |
 
 ---

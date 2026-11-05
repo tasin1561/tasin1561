@@ -7,7 +7,7 @@
 <!-- ============================  HERO BANNER  ============================ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:1a252f,100:e85d2a&height=210&section=header&text=Syed%20Talha%20Islam&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Founder%20of%20Solustation%20%26%20Menev%20%C2%B7%20CEO%20of%20BetaBroad%20%C2%B7%20Full-Stack%20Developer%20%26%20Data%20Analyst&descAlignY=56&descSize=16&descColor=f0f0f0" alt="Syed Talha Islam" />
+<img width="100%" src="./assets/header.svg" alt="Syed Talha Islam — Founder of Solustation &amp; Menev · CEO of BetaBroad · Full-Stack Developer &amp; Data Analyst" />
 
 <!-- ============================  TYPING LINE  =========================== -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1100&color=E85D2A&center=true&vCenter=true&width=820&height=48&lines=Founder+of+Solustation+%E2%80%94+the+tech+behind+the+group;Founder+of+Menev+%E2%80%94+men%27s+fashion+brand;Data+%26+Business+Analyst+%C2%B7+BI%2C+ETL%2C+forecasting;Co-owner+%26+CEO+of+BetaBroad+%C2%B7+building+Delivro;Lead+architect+of+CosmicTRD+%26+Skydrop;Data+Science+%40+United+International+University;AI-augmented+development+%E2%80%94+shipping+fast" alt="What I do" />
@@ -226,5 +226,5 @@ I'm **open to full-time roles, freelance / contract work, and agency partnership
 </p>
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:e85d2a,40:1a252f,100:0d1117&height=120&section=footer" alt="footer" />
+<img width="100%" src="./assets/footer.svg" alt="" />
 </div>
